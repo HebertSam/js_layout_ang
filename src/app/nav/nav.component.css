@@ -1,0 +1,17 @@
+div{
+    background: lightblue;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 60px;
+    padding: 5px;
+    border: solid black;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: block;
+    width: 80%;
+}

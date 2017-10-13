@@ -1,0 +1,11 @@
+div{
+    background: lightblue;
+    height: 200px;
+    width: 90%;
+    align-self: left;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-right: auto;
+    padding: 5px;
+    border: solid black;
+}
